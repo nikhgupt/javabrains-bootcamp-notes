@@ -5,6 +5,16 @@ In this session we learnt about how this boot camp going to function.
 1. How web requests work?
 2. Multiple tiers in web - Front End and BackEnd.
 3. What are CDNs and how does it work?
+    CDNs are Content Delivery Network which acts as Edge servers. They are used as distributed servers which will have static data and are located near the client's geographic location, so that they are served faster.
+
 4.  HTTP Requests and response.
+    Different types of requests : GET, POST, PUT, DELETE.
 5. Git and GitHUB. What are those and how do they work?
+    Git is a version control system and Github is a repository of codes.
 6. Steps to contribute to OpenSource. - Pull Request Workflow.
+    a. Fork the repository.
+    b. Clone it.
+    c. Create a branch.
+    d. Make changes in your local system.
+    e. Push the changes to remote repo.
+    f. Create the Pull Request to merge the changes made in the main branch.
